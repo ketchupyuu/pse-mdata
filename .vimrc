@@ -19,11 +19,11 @@ set hlsearch    "highlight matches
 nnoremap <leader><space> :nohlsearch<CR>    
 
 "folding
-set foldenable  "enable folding
-set foldlevelstart=1    "open most folds by default
-set foldnestmax=10      "10 nested fold max
-nnoremap <space> za
-set foldmethod=indent
+"set foldenable  "enable folding
+"set foldlevelstart=1    "open most folds by default
+"set foldnestmax=10      "10 nested fold max
+"nnoremap <space> za
+"set foldmethod=indent
 
 "movement
 "move vertically by visual line
